@@ -1,7 +1,8 @@
 # Study Guide Webpage
 
 ## Description
-as a student in coding bootcamp I wanted to store my notes in a clear accessible way. so I built this project to organize and display my notes on a webpage. 
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+
 
 ## Installation
 N/A
